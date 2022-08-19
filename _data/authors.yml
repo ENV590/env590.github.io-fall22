@@ -1,0 +1,16 @@
+# /_data/authors.yml
+
+Luana Lima:
+  name        : "Luana Lima"
+  bio         : ""
+  avatar      : "/assets/images/Luana_3-01.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:lmm89@duke.edu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"

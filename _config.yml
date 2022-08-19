@@ -1,0 +1,83 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: "Economics of Modern Power Systems"
+subtitle: "ENVIRON 590.05 / ENERGY 590.05"
+email: "lmm89@duke.edu"
+description: "This course is an introduction ...."
+baseurl: "/ENV590-course-website" # the subpath of your site, e.g. /blog
+url: "http://lmmlima.github.io/" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  lmmlima
+
+#header:
+#  teaser: /_images/nicholas-school-default.jpg
+  
+logo: "/assets/images/nicholas-school-default.jpg"
+
+# Build settings
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default"
+plugins:
+  - jekyll-feed
+
+# Site Author
+author:
+  name             : "Luana Lima"
+#  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : >-
+    This course is an introduction to ...
+ # location         : "Somewhere"
+ # email            :
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:lmm89@duke.edu"
+    - label: "Sakai"
+      icon: "fas fa-fw fa-link"
+      # url: "https://sakai.duke.edu/portal/site/e91be29c-3e9b-41d7-830d-8cf20ef05c83/tool/db3d0124-5654-4b11-8451-1200db2bd344/main"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/lmmlima/"
+
+
+
+
+include: ['_images', '_css']
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
