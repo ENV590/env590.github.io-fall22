@@ -1,11 +1,14 @@
 # main links
 main:
+  - title: "About"
+    url: /docs/about.html
   - title: "Syllabus"
     url: /syllabus/syllabus_ENV790_05_Fall2021.pdf
-  - title: "Assingments"
-    url: /assignments/
   - title: "Lessons"
-    url: /docs/lessons.md
+    url: /docs/lessons.html
+  - title: "Assignments"
+    url: /docs/assignments/
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
