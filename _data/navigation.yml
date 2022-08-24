@@ -1,13 +1,40 @@
 # main links
 main:
-  - title: "About"
-    url: /docs/about.html
-  - title: "Syllabus"
-    url: /syllabus/syllabus_ENV790_05_Fall2021.pdf
-  - title: "Lessons"
-    url: /docs/lessons.html
+  - title: "Overview"
+    url: /_pages/about
+#  - title: "Syllabus"
+#    url: /syllabus/syllabus_ENV790_05_Fall2021.pdf
+  - title: "Schedule"
+    url: /_pages/lessons
+  - title: "Modules"
+    url: /_pages/modulelist
   - title: "Assignments"
     url: /docs/assignments/
+
+overview:
+  - title: Course Overview
+    url: /_pages/about#course-overview
+  - title: Course Description
+    url: /_pages/about#course-description
+  - title: Course Format and Grading
+    url: /_pages/about#course-format-and-grading
+  - title: Class Etiquette
+    url: /_pages/about#class-etiquette
+  - title: Honor Code
+    url: /_pages/about#nicholas-school-honor-code
+  - title: Land Acknowledgement
+    url: /_pages/about#land-acknowledgment
+
+modules:
+  - title: Overview
+    url: /_pages/lessons
+  - title: Modules
+    url: /lessons.html
+    children:
+      - title: 1 - Introduction to Smart Grid
+        url: /M1.html
+#      - title: 2-Reproducibility & Coding Basics
+#        url: /M2.html
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
