@@ -70,10 +70,6 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-    minima (2.5.1)
-      jekyll (>= 3.5, < 5.0)
-      jekyll-feed (~> 0.9)
-      jekyll-seo-tag (~> 2.1)
     minimal-mistakes-jekyll (4.24.0)
       jekyll (>= 3.7, < 5.0)
       jekyll-feed (~> 0.1)
@@ -115,7 +111,7 @@ PLATFORMS
 
 DEPENDENCIES
   http_parser.rb (~> 0.6.0)
-  jekyll-feed (~> 0.12)
+  jekyll-feed (~> 0.16.0)
   jekyll-gist
   jekyll-include-cache
   jekyll-paginate
@@ -124,7 +120,6 @@ DEPENDENCIES
   jemoji
   kramdown
   kramdown-parser-gfm
-  minima (~> 2.5)
   minimal-mistakes-jekyll
   tzinfo (~> 1.2)
   tzinfo-data

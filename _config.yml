@@ -30,7 +30,7 @@ baseurl: "/ENV590-course-website" # the subpath of your site, e.g. /blog
 url: "http://lmmlima.github.io/" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  lmmlima
-#repository: lmmlima/ENV590-course-website.git
+repository: lmmlima/ENV590-course-website
 
 logo: "/docs/assets/logoNSOE.png"
 
@@ -49,6 +49,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-seo-tag
+
 
 # Outputting
 #permalink: /:categories/:title/
