@@ -1,4 +1,4 @@
 # 
 
 
-Visit https://env590.github.io to view this website
+Visit https://env590.github.io/course-website to view this website
