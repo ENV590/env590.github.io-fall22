@@ -26,11 +26,11 @@ subtitle: "ENVIRON 590.05 / ENERGY 590.05"
 site.author: Luana Maranon Lima
 email: "lmm89@duke.edu"
 description: ""
-baseurl: "/ENV590-course-website" # the subpath of your site, e.g. /blog
-url: "http://lmmlima.github.io/" # the base hostname & protocol for your site
+baseurl: "/course-website" # the subpath of your site, e.g. /blog
+url: "http://env590.github.io/" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  lmmlima
-repository: lmmlima/ENV590-course-website
+repository: ENV590/env590.github.io
 
 logo: "/docs/assets/logoNSOE.png"
 
