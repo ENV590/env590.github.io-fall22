@@ -1,38 +1,36 @@
 # main links
 main:
   - title: "Overview"
-    url: /_pages/about
-#  - title: "Syllabus"
-#    url: /syllabus/syllabus_ENV790_05_Fall2021.pdf
+    url: /_pages/syllabus/
   - title: "Schedule"
-    url: /_pages/lessons
+    url: /_pages/lessons/
   - title: "Modules"
-    url: /_pages/modulelist
+    url: /_pages/modulelist/
   - title: "Assignments"
     url: /docs/assignments/
 
 overview:
   - title: Course Overview
-    url: /_pages/about#course-overview
+    url: /_pages/syllabus#course-overview
   - title: Course Description
-    url: /_pages/about#course-description
+    url: /_pages/syllabus#course-description
   - title: Course Format and Grading
-    url: /_pages/about#course-format-and-grading
+    url: /_pages/syllabus#course-format-and-grading
   - title: Class Etiquette
-    url: /_pages/about#class-etiquette
+    url: /_pages/syllabus#class-etiquette
   - title: Honor Code
-    url: /_pages/about#nicholas-school-honor-code
+    url: /_pages/syllabus#nicholas-school-honor-code
   - title: Land Acknowledgement
-    url: /_pages/about#land-acknowledgment
+    url: /_pages/syllabus#land-acknowledgment
 
 modules:
   - title: Overview
-    url: /_pages/lessons
-  - title: Modules
-    url: /lessons.html
-    children:
-      - title: 1 - Introduction to Smart Grid
-        url: /M1.html
+    url: /_pages/modulelist/
+  - title: Module 1
+    url: /docs/modules/M1/
+#    children:
+#      - title: 1 - Introduction to Smart Grid
+#        url: /M1.html
 #      - title: 2-Reproducibility & Coding Basics
 #        url: /M2.html
 

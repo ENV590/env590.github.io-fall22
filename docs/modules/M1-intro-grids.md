@@ -1,8 +1,7 @@
 ---
-title: "M1 - Intro to Electric Power Grids"
-layout: overview
-permalink: /M1.html
-recording:
+title: "M1 - Intro to Smart Grids"
+layout: single
+permalink: /docs/modules/M1/
 sidebar:
  nav: modules
 ---
@@ -11,7 +10,7 @@ sidebar:
 
 * Review of power systems and its four major components: Generation, Transmission, Distribution and Consumption.
 
-* Understand chratceristics of the "old' grids and problems related to realiability, effciency and environmental impact. When I refer to "old" grids, I am not talking about today's grid. Old grid is a reference to the power grid before the transition to a smart grid started.
+* Understand chratceristics of the "old" grids and problems related to realiability, effciency and environmental impact. When I refer to "old" grids, I am not talking about today's grid. Old grid is a reference to the power grid before the transition to a smart grid started.
 
 * Introduce smart grids: definition, opportunities and challenges.
 

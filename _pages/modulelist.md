@@ -1,12 +1,13 @@
 ---
 title: "Course Modules"
-#permalink: /docs/
+permalink: /_pages/modulelist/
 output:
   html_document:
     df_print: paged
 ##redirect_from: "/theme-setup/"
-last_modified_at: "2022-08-18"
-sidebar: modules
+last_modified_at: "2022-08-26"
+sidebar:
+  nav: modules
 layout: single
 #author_profile: true
 ---

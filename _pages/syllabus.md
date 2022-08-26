@@ -1,17 +1,17 @@
 ---
 title: ""
-#permalink: /docs/
+permalink: /_pages/syllabus/
 output:
   html_document:
     df_print: paged
 excerpt: Class Schedule
 #redirect_from: "/theme-setup/"
-last_modified_at: "2022-08-18"
-sidebar: overview
+last_modified_at: "2022-08-26"
 layout: single
+sidebar:
+  nav: overview
 ---
 
-<br>
 # Course Overview
 
 **Class Hours**

@@ -95,7 +95,11 @@ include: ['_images', '_css','_data','_pages','_layout']
 
 #github: [metadata]
 
-
+#Navigation bar
+sidebar:
+  - main
+  - overview
+  - modules
 
 
 
