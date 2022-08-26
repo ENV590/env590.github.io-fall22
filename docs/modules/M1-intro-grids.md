@@ -10,15 +10,15 @@ sidebar:
 
 * Review of power systems and its four major components: Generation, Transmission, Distribution and Consumption.
 
-* Understand chratceristics of the "old" grids and problems related to realiability, effciency and environmental impact. When I refer to "old" grids, I am not talking about today's grid. Old grid is a reference to the power grid before the transition to a smart grid started.
+* Understand characteristics of the "old" grids and problems related to reliability, efficiency and environmental impact. When I refer to "old" grids, I am not talking about today's grid. Old grid is a reference to the power grid before the transition to a smart grid started.
 
 * Introduce smart grids: definition, opportunities and challenges.
 
 ## Slides
 
+Here is a [link]("https://github.com/ENV590/env590.github.io/docs/PPTS/PSE_M0_ClassOverviewAndIntro.pdf") to the slide deck used in class.
 
-
-## Recordings
+## Recordings (optional)
   <ul>
   {% for row in site.data.Recordings %}
   {% if row.M == "M1" %}
