@@ -52,12 +52,12 @@ Click [here](https://join.slack.com/t/modernpowersystems/shared_invite/zt-1eyrbw
 <br>
 # Course Description
 
-The electric power grid is undergoing a major transformation. On the generation side we see an increase in renewable energy penetration driven by the need to reduce $CO_2$ emissions. On the demand side we face new consumption profiles such as plug-in vehicles, smart homes and smart buildings. The course will focus on the economics of modern power grids to facilitate the integration of these new agents.
+The electric power grid is undergoing a major transformation. On the generation side we see an increase in renewable energy penetration driven by the need to reduce CO_2 emissions. On the demand side we face new consumption profiles such as plug-in vehicles, smart homes and smart buildings. The course will focus on the economics of modern power grids to facilitate the integration of these new agents.
 
 Students will learn about the additional strains placed on the existing grids to balance electricity supply and demand.
-We will discuss energy storage that gained a lot of attention due to the intermittent and fluctuating energy availability from renewable energy sources.
+We will discuss energy storage to handle intermittent and fluctuating energy availability from renewable energy sources.
 
-Since most of the transformation is happening at the distribution level we will also talk about distribution network pricing. The pricing mechanism is the key to ensure the success of the new Smart Grid environment and has an important role in sending economic signals to network users. Yet there is no established practice or common pricing principle that can best serve the industry in the coming period of great change.
+Since most of the transformation is happening at the distribution level we will also talk about distribution network pricing (access charges and rate structure). The pricing mechanism is the key to ensure the success of the new Smart Grid environment and has an important role in sending economic signals to network users. Yet there is no established practice or common pricing principle that can best serve the industry in the coming period of great change.
 
 Upon completion of this course students will understand how information and communication technology will be incorporated into every aspect of electricity generation, delivery and consumption to minimize environmental impact and improve reliability and efficiency.
 
@@ -65,7 +65,7 @@ Upon completion of this course students will understand how information and comm
 <br>
 # Course Format and Grading
 
-The course consists of pre-recorded lectures and discussion based on the readings. There will be a set of assignments, a journal and a final project. Grades will be based on:
+The course consists of in-person lectures and discussions based on the readings. There will be a set of assignments, a journal and a final project. Grades will be based on:
 
 <center>
 <table>
