@@ -44,6 +44,7 @@ Office hour: TBD
 
 <br>
 **Communication**
+
 We will use Slack for communication. I will add all students to the slack workspace I've created for the class. Using slack will assure I never miss an email from you and will also keep us one text message away! You may use slack on your computer and/or phone.
 
 Click [here](https://join.slack.com/t/modernpowersystems/shared_invite/zt-1eyrbwh34-ZN7QVFbBX0avgh~1N1s8Vw) to join our slack workspace.
