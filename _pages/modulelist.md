@@ -13,7 +13,7 @@ layout: single
 ---
 
 <br>
-The class topics are divided into ten modules. 
+The class topics are divided into ten modules. Each module will have an assignment associated that could be a simple quiz, a reflection piece or solving a LP model in R, Python or Excel. There will be readings associated with each module. 
 
 **M1 -** Introduction to Smart Grid (SG) <br>
 **M2 -** SG: How Electricity Distribution Will Change? <br>
