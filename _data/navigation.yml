@@ -28,6 +28,26 @@ modules:
     url: /_pages/modulelist/
   - title: Module 1
     url: /docs/modules/M1/
+  - title: Module 2
+    url: /docs/modules/M2/
+  - title: Module 3
+    url: /docs/modules/M3/
+  - title: Module 4
+    url: /docs/modules/M4/
+  - title: Module 5
+    url: /docs/modules/M5/
+  - title: Module 6
+    url: /docs/modules/M6/
+  - title: Module 7
+    url: /docs/modules/M7/
+  - title: Module 8
+    url: /docs/modules/M8/
+  - title: Module 9
+    url: /docs/modules/M9/
+  - title: Module 10
+    url: /docs/modules/M10/
+
+
 #    children:
 #      - title: 1 - Introduction to Smart Grid
 #        url: /M1.html

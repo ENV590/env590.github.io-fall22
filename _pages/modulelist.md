@@ -13,14 +13,16 @@ layout: single
 ---
 
 <br>
-The class topics are divided into nine modules.
+The class topics are divided into ten modules. 
 
 **M1 -** Introduction to Smart Grid (SG) <br>
-**M2 -** SG: How electricity distribution will change? <br>
-**M3 -** SG: How electricity generation will change? <br>
-**M4 -** Distributed generation, Solar Industry Outlook,Rooftop PV Study Case <br>
-**M5 -** Distributed generation integration challenges <br>
-**M6 -** Distributed Energy Resources, Energy Storage, Intro to LP in Python, Energy Storage Management, Rooftop PV + battery study case <br>
-**M7 -** Economic dispatch under uncertainty <br>
-**M8 -** Rate Structure: Introduction to Network Pricing and Operational Expenditure <br>
-**M9 -** Rate Structure: Cost Allocation Methods <br>
+**M2 -** SG: How Electricity Distribution Will Change? <br>
+**M3 -** SG: How Electricity Generation Will Change? <br>
+**M4 -** Distributed Energy Resources  <br>
+**M5 -** Solar Industry Outlook & Energy Storage <br>
+**M6 -** Distributed Generation Integration Challenges & <br>
+              Economic Dispatch with Renewable <br>
+**M7 -** Behind-the-Meter (BTM) Energy Management Systems: PV + battery <br>
+**M8 -** Intro to Electric Rates Structure <br>
+**M9 -** Electric Rates II: Benchmarking Utility Operational Expanditure <br>
+**M10 -** Electric Rates III: Rate Design Options <br>
