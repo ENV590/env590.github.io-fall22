@@ -37,7 +37,7 @@ logo: "/docs/assets/logoNSOE.png"
 
 ############ Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+remote_theme: minimal-mistakes-jekyll
 #remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "default"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
