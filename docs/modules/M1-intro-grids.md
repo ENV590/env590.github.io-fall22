@@ -18,8 +18,6 @@ sidebar:
 
 Here is a <a href="/docs/modules/PPTS/" > link </a> to the slide deck used in class.
 
-
-
 ## Recordings (optional)
   <ul>
   {% for row in site.data.Recordings %}
