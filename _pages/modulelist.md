@@ -13,7 +13,7 @@ layout: single
 ---
 
 <br>
-The class topics are divided into ten modules. Each module will have an assignment associated that could be a simple quiz, a reflection piece or solving a LP model in R, Python or Excel. There will be readings associated with each module. 
+The class topics are divided into ten modules. Each module will have an assignment associated that could be a simple quiz, a reflection piece or solving a LP model in R, Python or Excel. There will be readings associated with each module.
 
 **M1 -** Introduction to Smart Grid (SG) <br>
 **M2 -** SG: How Electricity Distribution Will Change? <br>
@@ -26,3 +26,5 @@ The class topics are divided into ten modules. Each module will have an assignme
 **M8 -** Intro to Electric Rates Structure <br>
 **M9 -** Electric Rates II: Benchmarking Utility Operational Expanditure <br>
 **M10 -** Electric Rates III: Rate Design Options <br>
+
+Here is a <a href="/docs/modules/PPTS/PSE_M0_ClassOverviewAndIntro.pdf" > link </a> to the slide deck used in the first day of class.
