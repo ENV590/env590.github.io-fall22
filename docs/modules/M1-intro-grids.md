@@ -16,7 +16,7 @@ sidebar:
 
 ## Slides
 
-Here is a [link]("https://github.com/ENV590/env590.github.io/docs/PPTS/PSE_M0_ClassOverviewAndIntro.pdf") to the slide deck used in class.
+Here is a [link]("https://env590.github.io/docs/PPTS/PSE_M0_ClassOverviewAndIntro.pdf") to the slide deck used in class.
 
 ## Recordings (optional)
   <ul>
