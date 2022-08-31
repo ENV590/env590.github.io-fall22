@@ -36,3 +36,7 @@ If want more information on smart grid, watch this animated video from the US De
 This second video shows the economic impact of having an outage in the old grids and one in the self-healing smart grid. It's a 13 minute long video, but it's very entertaining!
 
 [Outage Impact](https://www.youtube.com/watch?v=2VGs7FdrSIE)
+
+## Deliverables
+
+For this module you will do a journal entry using Sakai discussion. Here is the journal entry [J1](https://sakai.duke.edu/portal/site/fc198b90-9d77-4c6b-8708-c9d0d044be5b/tool/26e522a4-84f3-4d97-9ad5-a7c405e8ea92/discussionForum/message/dfAllMessages). The due date for J1 is Tuesday Sept 6 for journal entries and Friday Sept 10th for journal comments.
