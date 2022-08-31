@@ -7,7 +7,7 @@ main:
   - title: "Modules"
     url: /_pages/modulelist/
   - title: "Assignments"
-    url: /docs/assignments/
+    url: /_pages/assignments/
 
 overview:
   - title: Course Overview
