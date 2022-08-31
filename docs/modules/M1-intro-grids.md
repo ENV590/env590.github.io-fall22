@@ -16,7 +16,7 @@ sidebar:
 
 ## Slides
 
-Here is a <a href="/docs/modules/PPTS/" > link </a> to the slide deck used in class.
+Here is a <a href="/docs/modules/PPTS/PSE_M1_IntroSmartGrid" > link </a> to the slide deck used in class.
 
 ## Recordings (optional)
   <ul>
@@ -29,7 +29,7 @@ Here is a <a href="/docs/modules/PPTS/" > link </a> to the slide deck used in cl
 
 ## Resources
 
-If want more information on smart grid, watch this animated video from the US Department of Energy entitled "What Is the Smart Grid?". This is just a first in a chapter of a serie os videos on how smart grids impact you.
+If want more information on smart grid, watch this animated video from the US Department of Energy entitled "What Is the Smart Grid?". This is just a first in a chapter of a series os videos on how smart grids impact you.
 
 [What is the Smart Grid?](https://www.youtube.com/watch?v=JwRTpWZReJk)
 
