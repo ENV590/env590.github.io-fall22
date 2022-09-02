@@ -16,7 +16,7 @@ sidebar:
 
 ## Slides
 
-Here is a <a href="/docs/modules/PPTS/PSE_M1_IntroSmartGrid" > link </a> to the slide deck used in class.
+Here is a <a href="/docs/modules/PPTS/PSE_M1_IntroSmartGrid.pdf" > link </a> to the slide deck used in class.
 
 ## Recordings (optional)
   <ul>
