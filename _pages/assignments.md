@@ -7,7 +7,7 @@ output:
 excerpt: Class Schedule
 #redirect_from: "/theme-setup/"
 last_modified_at: "2022-08-26"
-layout: splash
+layout: single
 #sidebar: overview
 
 ---
@@ -17,4 +17,5 @@ layout: splash
 | Module |   Deliverables | Due Date |
 |----|--------|--------------|
 | M1 | J1 | Entry: Tuesday Sep 6th <br> Comment: Friday Sep 10th |
-| M2 | A1 | Sep 17th|
+| M2 | J2 | Entry: Tuesday Sep 6th <br> Comment: Friday Sep 10th |
+| M3 | A1 - Rooftop PV | Sep 23rd|
