@@ -9,7 +9,6 @@ excerpt: Class Schedule
 last_modified_at: "2022-08-26"
 layout: splash
 #sidebar: overview
-
 ---
 
 # Class Proposed Schedule
@@ -23,12 +22,12 @@ The proposed schedule below is subject to change. My initial plan is to cover al
 | L2 |   <a href="/docs/modules/M1/" > M1 </a> | Aug 31 | Review of Electric Power Systems: Generator, Transmission, Distribution, Load <br> "Old" Grids and Its Problems, The Solution: Smart Grid <br> Introduction to Smart Grids or Modern Power Grids: Definition, Benefits, Opportunities and Challenges | [J1](https://sakai.duke.edu/portal/site/fc198b90-9d77-4c6b-8708-c9d0d044be5b/tool/26e522a4-84f3-4d97-9ad5-a7c405e8ea92/discussionForum/message/dfAllMessages)  |
 | L3 | <a href="/docs/modules/M2/" > M2 </a> | Sep 5 | Smart Grid from Global Perspective: How electricity distribution will change? <br> Smart-meter deployment |- |
 | L4 | <a href="/docs/modules/M2/" > M2 </a> | Sep 7 |  ICT Perspectives, End user view, DSO view <br> AMI deployment experience Vermont and Sweden |[J2](https://sakai.duke.edu/portal/site/fc198b90-9d77-4c6b-8708-c9d0d044be5b/tool/26e522a4-84f3-4d97-9ad5-a7c405e8ea92/discussionForum/message/dfAllMessages) |
-| L5 | <a href="/docs/modules/M3/" > M3 </a> | Sep 12 | Smart Grid from Global Perspective: How electricity generation will change? <br> Paradigm shift, renewable energy sources, challenges of renewable resource integration. | - |
-| L6 | <a href="/docs/modules/M3/" > M3 </a> | Sep 14 |  Rooftop PV study case | A1 |
+| L5 | <a href="/docs/modules/M3/" > M3 </a> | Sep 12 | Smart Grid from Global Perspective: How electricity generation will change? <br> Paradigm shift, renewable energy sources | - |
+| L6 | <a href="/docs/modules/M3/" > M3 </a> | Sep 14 |  Challenges of renewable resource integration <br> Rooftop PV study case | A1 |
 | L7 | <a href="/docs/modules/M4/" > M4 </a> | Sep 19 | Distributed Generation: definition, history, planning and operation <br> Solar Penetration Outlook <br> The Duck Curve and Possible Solutions | - |
-| L8 | <a href="/docs/modules/M4/" > M4 </a> | Sep 19 | Distributed Generation: definition, history, planning and operation <br> Solar Penetration Outlook <br> The Duck Curve and Possible Solutions | - |
-
-|  | M5 | Sep 26 - 28 | Distributed Generation: challenges of DG integration, location, power quality and stability | J4 |
+| L8 | <a href="/docs/modules/M4/" > M4 </a> | Sep 21 | Distributed Generation: challenges of DG integration, location, power quality and stability | - |
+| L9 | <a href="/docs/modules/M5/" > M5 </a> | Sep 26 | Distributed Generation: challenges of DG integration, location, power quality and stability | - |
+| L10 | <a href="/docs/modules/M5/" > M5 </a> | Sep 28 | DER: Energy Storage Applications to Power Systems <br> Energy Systems Management <br> Intro to LP in R using "lpsolveAPI" package and/or Python with Pyomo | J4 |
 |  | M6 | Oct 3 - 5 | DER: Energy Storage Applications to Power Systems, Intro to LP in R using "lpsolveAPI" package | A2 |
 |  | M6 | Oct 10 - 12 | Fall break, we will use the class on Wed to work on assignment and/or project | A3 |
 |  | - | Oct 17 - 19 | Energy Storage Management, Residential PV+battery <br> Residential PV+battery study case: problem formulation  | J5 |
