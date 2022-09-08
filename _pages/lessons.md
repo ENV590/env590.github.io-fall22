@@ -23,8 +23,11 @@ The proposed schedule below is subject to change. My initial plan is to cover al
 | L2 |   <a href="/docs/modules/M1/" > M1 </a> | Aug 31 | Review of Electric Power Systems: Generator, Transmission, Distribution, Load <br> "Old" Grids and Its Problems, The Solution: Smart Grid <br> Introduction to Smart Grids or Modern Power Grids: Definition, Benefits, Opportunities and Challenges | [J1](https://sakai.duke.edu/portal/site/fc198b90-9d77-4c6b-8708-c9d0d044be5b/tool/26e522a4-84f3-4d97-9ad5-a7c405e8ea92/discussionForum/message/dfAllMessages)  |
 | L3 | <a href="/docs/modules/M2/" > M2 </a> | Sep 5 | Smart Grid from Global Perspective: How electricity distribution will change? <br> Smart-meter deployment |- |
 | L4 | <a href="/docs/modules/M2/" > M2 </a> | Sep 7 |  ICT Perspectives, End user view, DSO view <br> AMI deployment experience Vermont and Sweden |[J2](https://sakai.duke.edu/portal/site/fc198b90-9d77-4c6b-8708-c9d0d044be5b/tool/26e522a4-84f3-4d97-9ad5-a7c405e8ea92/discussionForum/message/dfAllMessages) |
-|  | M3 | Sep 12 - 14 | Smart Grid from Global Perspective: How electricity generation will change? <br> Paradigm shift, renewable energy sources, challenges of renewable resource integration. <br> Distributed Generation: definition, history, planning and operation |J3 |
-|  | M4 | Sep 19 - 21 | Rooftop PV study case, Solar Penetration Outlook <br> The Duck Curve and Possible Solutions | A1 |
+| L5 | <a href="/docs/modules/M3/" > M3 </a> | Sep 12 | Smart Grid from Global Perspective: How electricity generation will change? <br> Paradigm shift, renewable energy sources, challenges of renewable resource integration. | - |
+| L6 | <a href="/docs/modules/M3/" > M3 </a> | Sep 14 |  Rooftop PV study case | A1 |
+| L7 | <a href="/docs/modules/M4/" > M4 </a> | Sep 19 | Distributed Generation: definition, history, planning and operation <br> Solar Penetration Outlook <br> The Duck Curve and Possible Solutions | - |
+| L8 | <a href="/docs/modules/M4/" > M4 </a> | Sep 19 | Distributed Generation: definition, history, planning and operation <br> Solar Penetration Outlook <br> The Duck Curve and Possible Solutions | - |
+
 |  | M5 | Sep 26 - 28 | Distributed Generation: challenges of DG integration, location, power quality and stability | J4 |
 |  | M6 | Oct 3 - 5 | DER: Energy Storage Applications to Power Systems, Intro to LP in R using "lpsolveAPI" package | A2 |
 |  | M6 | Oct 10 - 12 | Fall break, we will use the class on Wed to work on assignment and/or project | A3 |
