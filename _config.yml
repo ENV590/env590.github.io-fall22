@@ -23,7 +23,7 @@
 
 title: "Economics of Modern Power Systems"
 subtitle: "ENVIRON 590.05 / ENERGY 590.05"
-site.author: Luana Maranon Lima
+site.author: "Luana Lima"
 email: "lmm89@duke.edu"
 description: ""
 #baseurl: "/course-website" # the subpath of your site, e.g. /blog
@@ -111,20 +111,17 @@ sidebar:
 
 
 ########### Site Author
-author:
-  name             : "Luana Lima"
-  avatar           :  "/docs/assets/Luana_3-01.jpg"
-  bio              : "Visiting Assistant Professor"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:lmm89@duke.edu"
-    - label: "Sakai"
-      icon: "fas fa-fw fa-link"
-      # url: "https://sakai.duke.edu/portal/site/e91be29c-3e9b-41d7-830d-8cf20ef05c83/tool/db3d0124-5654-4b11-8451-1200db2bd344/main"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/lmmlima/"
+#author:
+#  name             : "Luana Lima"
+#  avatar           :  "/docs/assets/Luana_3-01.jpg"
+#  bio              : "Dr. Luana Marangon Lima is a visiting assistant professor of energy and environment in the environmental sciences and policy division of Duke University’s Nicholas School of the Environment and the Associate Director for Educational Programs at the Nicholas Institute for Energy, Environment and Sustainability"
+#  links:
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:lmm89@duke.edu"
+#    - label: "Linkedin"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://www.linkedin.com/in/luana-marangon-lima-8a997aa9/"
 
 
 # Site Footer

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "List of Deliverables and Due Dates"
 permalink: /_pages/assignments/
 output:
   html_document:
@@ -12,6 +12,7 @@ layout: single
 
 ---
 
+You should use Sakai to submit your work. Assignments should be submitted using the *Assignments* tab and journals in the *Discussion* tab. This is a tentative schedule.
 <br>
 
 | Module |   Deliverables | Due Date |
