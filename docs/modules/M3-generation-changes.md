@@ -33,7 +33,7 @@ Here is a <a href="/docs/modules/PPTS/PSE_M3_P1_SmartGrids_Generation.pdf" > lin
 
 ## Resources
 
-Additional information and resources for the data presented in this module will be found below.
+Additional information and resources for the data presented in this module will be found below. <br>
 
 * <a href="https://www.eia.gov/outlooks/aeo/pdf/AEO2022_ReleasePresentation.pdf" > Annual Energy Outlook - US </a>
 * <a href="https://www.eia.gov/outlooks/ieo/pdf/IEO2021_ReleasePresentation.pdf" > International Energy Outlook </a>
