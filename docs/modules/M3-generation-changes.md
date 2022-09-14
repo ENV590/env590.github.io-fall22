@@ -39,9 +39,9 @@ Additional information and resources for the data presented in this module will 
 * <a href="https://www.eia.gov/outlooks/ieo/pdf/IEO2021_ReleasePresentation.pdf" > International Energy Outlook </a>
 * <a href="https://www.lazard.com/media/451905/lazards-levelized-cost-of-energy-version-150-vf.pdf" > LCOE - Lazard Report </a>
 
-Additional materion on distributed generation
+Additional material on distributed generation
 
-* <a href="docs/modules/readings/ADLittleWhitePaper-DGUnderstandingtheEconomics.pdf" > Understanding Economics of DG </a>
+* <a href="/docs/modules/readings/ADLittleWhitePaper-DGUnderstandingtheEconomics.pdf" > Understanding Economics of DG </a>
 
 For information on how to download/install SAM and additional resources to get started please visit this <a href="https://sam.nrel.gov" > website </a> and watch the video "Introduction to SAM 2020.2.29".
 
