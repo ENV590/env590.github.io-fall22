@@ -31,12 +31,12 @@ Here is a <a href="/docs/modules/PPTS/PSE_M2_SmartGrids_Distribution.pdf" > link
 
 Required Reading: Chapter 1 from the book Smart Grids From a Global Perspective.
 
-<a href="/docs/modules/readings/CH1_SmartGrids_GlobalPerspective.pdf" > Chapter 1 </a>
+<a href="/docs/modules/readings/M2_CH1_SmartGrids_GlobalPerspective.pdf" > Chapter 1 </a>
 
 Optional reading: If you want more information on the surveys conducted please refer to the following files.  
 
-* <a href="/docs/modules/readings/Vermont_experience.pdf" > Vermont Experience </a>
-* <a href="/docs/modules/readings/Sweden_experience.pdf" > Sweden Experience </a>
+* <a href="/docs/modules/readings/M2_Vermont_experience.pdf" > Vermont Experience </a>
+* <a href="/docs/modules/readings/M2_Sweden_experience.pdf" > Sweden Experience </a>
 
 ## Topics for Discussion/Reflection
 
