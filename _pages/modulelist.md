@@ -16,8 +16,8 @@ The class topics are divided into ten modules. Each module will have an assignme
 
 **M1 -** Introduction to Smart Grid (SG) <br>
 **M2 -** SG: How Electricity Distribution Will Change? <br>
-**M3 -** SG: How Electricity Generation Will Change? <br>
-**M4 -** Distributed Generation & Challenge of DG Integration & Solar Industry Outlook  <br>
+**M3 -** SG: How Electricity Generation Will Change? | Intro to Distributed Generation <br>
+**M4 -** More on DG: Challenge of DG Integration & Solar Industry Outlook  <br>
 **M5 -** Distributed Energy Resources & Economics of Energy Storage <br>
 **M6 -** Behind-the-Meter (BTM) Energy Management Systems: PV + battery <br>
 **M7 -** Economic Dispatch with Renewables <br>
