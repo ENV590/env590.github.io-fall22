@@ -16,7 +16,7 @@ You should use Sakai to submit your work. Assignments should be submitted using 
 <br>
 
 | Module |   Deliverables | Due Date |
-|----|--------|--------------|
+|----|-------------|-------------------|
 | M1 | [J1](https://sakai.duke.edu/portal/site/fc198b90-9d77-4c6b-8708-c9d0d044be5b/tool/26e522a4-84f3-4d97-9ad5-a7c405e8ea92/discussionForum/message/dfAllMessages) | Entry: Tuesday Sep 6th <br> Comment: Friday Sep 10th |
 | M2 | [J2](https://sakai.duke.edu/portal/site/fc198b90-9d77-4c6b-8708-c9d0d044be5b/tool/26e522a4-84f3-4d97-9ad5-a7c405e8ea92/discussionForum/message/dfAllMessages) | Entry: Tuesday Sep 13th <br> Comment: Friday Sep 16th |
 | M3 | A1 - Rooftop PV with SAM <br> [Sakai link](https://sakai.duke.edu/portal/site/fc198b90-9d77-4c6b-8708-c9d0d044be5b/tool/bf736605-42a0-41a8-987a-754e3066d785?panel=Main) <br> <a href="/docs/assignments/A1_F2022_ENV590.pdf" > PDF link </a>| Sep 23rd|
