@@ -41,7 +41,7 @@ And here are additional resources and readings for energy storage.
 * <a href="/docs/modules/readings/M5_gridmod.pdf" > 50 States of Grid Modernization </a>
 * <a href="/docs/modules/readings/M5_ElectES.pdf" > Overview of current development in electrical energy storage </a>
 
-For more information on LPs and the water heater example, please refer to the additional slides on linear programming linked below. You do not need to worry about the graphical solution since we will use Python to solve our models.
+For more information on LPs and the water heater example, please refer to the additional slides on linear programming linked below. You do not need to worry about the graphical solution since we will use computer solvers to solve our models.
 
 * <a href="/docs/modules/readings/M5_Additional_LP_Slides.pdf" > Intro to Linear Programming </a>
 
