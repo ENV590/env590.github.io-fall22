@@ -1,0 +1,50 @@
+---
+title: "M5 - Distributed Energy Resources & Economics of Energy Storage"
+layout: single
+permalink: /docs/modules/M5/
+sidebar:
+ nav: modules
+---
+
+## Learning Objectives
+
+In this module we will talk about distributed energy resources with focus on electrical energy storage (EES). The learning outcomes of this module are:
+
+* Understand the multi-service storage can provide to power systems;
+* Overview of common EES technologies and existing facilities in US and other countries;
+* Overview of energy storage perspective and projections;
+* Introduction to operations research and mathematical models with focus on linear programming (LP);
+* Learn how to solve LP models in Python using PYOMO library (or R using lpsolve).
+
+## Slides
+
+Here is a <a href="/docs/modules/PPTS/PSE_M4_DGIntegrationChallenges.pdf" > link </a> to the slide deck used in class.
+
+
+## Recordings (optional)
+  <ul>
+  {% for row in site.data.Recordings %}
+  {% if row.M == "M1" %}
+  <li> <a href="{{ row.link }}" target="_blank">{{ row.Task }}</a></li>
+  {% endif %}
+  {% endfor %}
+  </ul>
+
+## Resources
+
+And here are additional resources and readings for energy storage.
+
+* <a href="/docs/modules/readings/M5_gridmod.pdf" > 50 States of Grid Modernization </a>
+* <a href="/docs/modules/readings/M5_ElectES.pdf" > Overview of current development in electrical energy storage </a>
+
+For more information on LPs and the water heater example, please refer to the additional slides on linear programming linked below. You do not need to worry about the graphical solution since we will use Python to solve our models.
+
+* <a href="/docs/modules/readings/M5_Additional_LP_Slides.pdf" > Intro to Linear Programming </a>
+
+## Topics for Discussion/Reflection
+
+
+
+## Deliverables
+
+For this module you will do a journal entry using Sakai discussion. Here is the journal entry [J3 link](https://sakai.duke.edu/portal/site/fc198b90-9d77-4c6b-8708-c9d0d044be5b/tool/26e522a4-84f3-4d97-9ad5-a7c405e8ea92/discussionForum/message/dfAllMessages). The due date for J3 is Tuesday Sept 27th for journal entries and Friday Sept 30th for journal comments.
