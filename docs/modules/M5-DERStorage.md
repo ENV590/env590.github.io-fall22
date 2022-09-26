@@ -30,6 +30,10 @@ Here is a <a href="/docs/modules/PPTS/PSE_M5_DER_Storage.pdf" > link </a> to the
   {% endfor %}
   </ul>
 
+* Intro to Operation Research and Linear Programming in R [recording](https://warpwire.duke.edu/w/y4UEAA/)).
+* Linear Programming in R [recording](https://warpwire.duke.edu/w/r4UEAA/).
+* Linear Programming in Python with Pyomo [recording]: to come!
+
 ## Resources
 
 And here are additional resources and readings for energy storage.
