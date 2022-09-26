@@ -47,4 +47,4 @@ For more information on LPs and the water heater example, please refer to the ad
 
 ## Deliverables
 
-For this module you will do a journal entry using Sakai discussion. Here is the journal entry [J3 link](https://sakai.duke.edu/portal/site/fc198b90-9d77-4c6b-8708-c9d0d044be5b/tool/26e522a4-84f3-4d97-9ad5-a7c405e8ea92/discussionForum/message/dfAllMessages). The due date for J3 is Tuesday Sept 27th for journal entries and Friday Sept 30th for journal comments.
+For this module you will complete [Assignment 2](). The due date for A2 is Friday Oct 7th.
