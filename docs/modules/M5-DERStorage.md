@@ -18,7 +18,7 @@ In this module we will talk about distributed energy resources with focus on ele
 
 ## Slides
 
-Here is a <a href="/docs/modules/PPTS/PSE_M4_DGIntegrationChallenges.pdf" > link </a> to the slide deck used in class.
+Here is a <a href="/docs/modules/PPTS/PSE_M5_DER_Storage.pdf" > link </a> to the slide deck used in class.
 
 
 ## Recordings (optional)
