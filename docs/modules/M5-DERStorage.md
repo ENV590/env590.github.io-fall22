@@ -46,7 +46,7 @@ For more information on LPs and the water heater/chemical solution example, plea
 * <a href="/docs/modules/readings/M5_Additional_LP_Slides.pdf" > Intro to Linear Programming </a>
 
 Instructions on how to get Google Colab set up on your machine available <a href="/docs/modules/codes/colab/" > here</a>.
-The script in Python created in the video is available in the [link](https://colab.research.google.com/drive/1PPme9yDW9Vcon8F9Oi-ku0dYMhau__2r?usp=sharing). You may also open the html version of the script <a href="/docs/modules/codes/M5_SimpleExamplePY.html" > here </a>.
+The script in Python created in the video is available in the [link](https://colab.research.google.com/drive/1PPme9yDW9Vcon8F9Oi-ku0dYMhau__2r?usp=sharing). You may also open the html version of the script <a href="/docs/modules/codes/M5_SimpleExamplePY.html" > here</a>.
 
 The script in R created in the video is available for download <a href="/docs/modules/codes/M5_SimpleExample.R" > here</a>.
 
