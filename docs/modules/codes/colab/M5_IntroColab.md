@@ -16,19 +16,19 @@ Google Colab documents have extension *.ipynb* and use the Markdown format which
 
 To set up your Google Colab go to your Google Drive and select New. If you don't have a google account, you will need to set up one. You can use your duke email or personal email to set up your account.
 
-![Screenshot](/Lab/_Images/Picture1.png)
+![Screenshot](images/Picture1.png)
 
 Navigate to More > Connect more apps.
 
-![Screenshot](/Lab/_Images/Picture2.png)
+![Screenshot](images/Picture2.png)
 
 A pop-up window will appear. Scroll down until you find Colaboratory.
 
-![Screenshot](/Lab/_Images/Picture3.png)
+![Screenshot](images/Picture3.png)
 
 Select Colaboratory and on the next pop-up window click Install.
 
-![Screenshot](/Lab/_Images/Picture4.png)
+![Screenshot](images/Picture4.png)
 
 You are all set!
 
@@ -61,6 +61,6 @@ print('Hello World')
 
 This will output the following:
 
-![Screenshot](/Lab/_Images/Picture5.png)
+![Screenshot](images/Picture5.png)
 
 If you get the same output above, then you’ve finished your first, and probably the simplest program using Python! Feel free to play with it and write anything else you want!
