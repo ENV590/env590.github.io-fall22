@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /docs/modules/M5/colab/
+permalink: /docs/modules/codes/colab/
 sidebar:
  nav: modules
 ---
