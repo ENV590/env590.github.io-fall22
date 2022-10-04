@@ -1,5 +1,5 @@
 ---
-title: "M6 - Behind-the-Meter (BTM) Energy Management Systems: PV + battery "
+title: "M6 - Behind-the-Meter (BTM) Energy Management Systems: PV + battery"
 layout: single
 permalink: /docs/modules/M6/
 sidebar:
