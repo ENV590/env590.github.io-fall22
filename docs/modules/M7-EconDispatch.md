@@ -41,4 +41,4 @@ Here is a <a href="/docs/modules/PPTS/PSE_M7_EconomicDispatch.pdf" > link </a> t
 
 ## Deliverables
 
-For this module you will complete [Assignment 3](...). The due date for A3 is Friday Oct 21st.
+For this module you will do a journal entry using Sakai discussion. Here is the journal entry [J4 link](https://sakai.duke.edu/portal/site/fc198b90-9d77-4c6b-8708-c9d0d044be5b/tool/26e522a4-84f3-4d97-9ad5-a7c405e8ea92/discussionForum/message/dfAllMessages). The due date for J4 is Tuesday Oct 25th for journal entries and Friday Oct 28th for journal comments.
