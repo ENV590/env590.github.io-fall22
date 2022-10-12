@@ -42,4 +42,4 @@ And here is a similar version of the model but incorporating uncertainty, i.e., 
 
 ## Deliverables
 
-For this module you will complete [Assignment 3](...). The due date for A3 is Friday Oct 21st.
+For this module you will complete [Assignment 3](https://sakai.duke.edu/portal/site/fc198b90-9d77-4c6b-8708-c9d0d044be5b/tool/bf736605-42a0-41a8-987a-754e3066d785?panel=Main). The due date for A3 is Friday Oct 21st.
