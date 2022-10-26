@@ -34,10 +34,10 @@ The proposed schedule below is subject to change. My initial plan is to cover al
 | L14 | - | Oct 12 | Class Project, Team building, Proposal presentations | Project Proposal (2-3 slides) |
 | L15 | <a href="/docs/modules/M7/" > M7 </a> | Oct 17 | Impact of DER on grid operation/scheduling and planning <br> |  |
 | L16 | <a href="/docs/modules/M7/" > M7 </a> | Oct 19 | Economic dispatch problem with renewables <br> Case study - Hydro-thermal scheduling Brazil  | J4 |
-| L17 | M8 | Oct 24 | Intro to Network Pricing - Transmission and Distribution Use of System Charges <br> Electricity Rate Structure |  |
-| L18 | M8 | Oct 26 | Guest Speaker: [Jeffrey Hughes](https://www.linkedin.com/in/jeff-hughes-74b58912/), Utilities Commissioner at North Carolina Utilities Commission | J5 |
-| L19 | M9 | Oct 31 | Revenue Requirement (CAPEX + OPEX) <br> How to calculate efficient operational expenditure? |  |
-| L20 | M9 | Nov 2 | Utility benchmark analysis using Data Envelopment Analysis (DEA) | A4 |
+| L17 | <a href="/docs/modules/M8/" > M8 | Oct 24 | Intro to Network Pricing - Transmission and Distribution Use of System Charges <br> Electricity Rate Structure |  |
+| L18 | <a href="/docs/modules/M8/" > M8 | Oct 26 | Guest Speaker: [Jeffrey Hughes](https://www.linkedin.com/in/jeff-hughes-74b58912/), Utilities Commissioner at North Carolina Utilities Commission | J5 |
+| L19 | <a href="/docs/modules/M9/" > M9 | Oct 31 | Revenue Requirement (CAPEX + OPEX) <br> How to calculate efficient operational expenditure? |  |
+| L20 | <a href="/docs/modules/M9/" > M9 | Nov 2 | Utility benchmark analysis using Data Envelopment Analysis (DEA) | A4 |
 | L21 | M10 | Nov 7 | **Energy Week no class** <br> Asynchronous recorded videos on power flow calculation  | Watch posted videos |
 | L22 | - | Nov 9 | **Energy Week no class** <br> Attend a panel I will be moderating on "Modernizing the Grid" as part of the 2022 Energy conference. <br> Please register [here](https://www.eventbrite.com/e/14th-annual-duke-energy-conference-and-reception-tickets-415396852167).  |  J6 <br> Write a reflection about one of the panels |
 | L23 | M10 | Nov 14 | Distribution Use of System Charges - cost allocation principles and assumptions  | Work on project |
