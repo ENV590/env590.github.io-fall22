@@ -17,7 +17,7 @@ In this module we will continue to talk about the fundamentals of transmission/d
 
 ## Slides
 
-Here is a <a href="/docs/modules/PPTS/PSE_M9_IntrotoPrincingI_OPEX_part2.pdf" > link </a> to the slide deck used in class.
+Here is a <a href="/docs/modules/PPTS/PSE_M9_OPEX_part2.pdf" > link </a> to the slide deck used in class.
 
 
 ## Recordings
@@ -32,7 +32,10 @@ Here is a <a href="/docs/modules/PPTS/PSE_M9_IntrotoPrincingI_OPEX_part2.pdf" > 
 
 ## Resources
 
+Additional resources and readings on benchmark analysis.
 
+* <a href="/docs/modules/readings/M9_DEA_CRS_Paper.pdf" > DEA Constant Returns to Scale </a>
+* <a href="/docs/modules/readings/M9_DEA_VRS_Paper.pdf" > DEA Variable Returns to Scale </a>
 
 
 ## Topics for Discussion/Reflection
@@ -40,3 +43,5 @@ Here is a <a href="/docs/modules/PPTS/PSE_M9_IntrotoPrincingI_OPEX_part2.pdf" > 
 
 
 ## Deliverables
+
+For this module you will complete [Assignment 4](). The due date for A4 is Friday Nov 11.

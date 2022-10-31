@@ -38,7 +38,7 @@ The proposed schedule below is subject to change. My initial plan is to cover al
 | L18 | <a href="/docs/modules/M8/" > M8 | Oct 26 | Guest Speaker: [Jeffrey Hughes](https://www.linkedin.com/in/jeff-hughes-74b58912/), Utilities Commissioner at North Carolina Utilities Commission | J5 |
 | L19 | <a href="/docs/modules/M9/" > M9 | Oct 31 | Revenue Requirement (CAPEX + OPEX) <br> How to calculate efficient operational expenditure? |  |
 | L20 | <a href="/docs/modules/M9/" > M9 | Nov 2 | Utility benchmark analysis using Data Envelopment Analysis (DEA) | A4 |
-| L21 | M10 | Nov 7 | **Energy Week no class** <br> Asynchronous recorded videos on power flow calculation  | Watch posted videos |
+| L21 | - | Nov 7 | **Energy Week no class** <br> Asynchronous recorded videos on power flow calculation  | Watch posted videos |
 | L22 | - | Nov 9 | **Energy Week no class** <br> Attend a panel I will be moderating on "Modernizing the Grid" as part of the 2022 Energy conference. <br> Please register [here](https://www.eventbrite.com/e/14th-annual-duke-energy-conference-and-reception-tickets-415396852167).  |  J6 <br> Write a reflection about one of the panels |
 | L23 | M10 | Nov 14 | Distribution Use of System Charges - cost allocation principles and assumptions  | Work on project |
 | L24 | M10 | Nov 16 | Cost allocation: Fixed & Incremental/marginal cost methods <br>  | Work on project |
