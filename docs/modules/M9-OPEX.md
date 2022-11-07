@@ -29,6 +29,12 @@ Here is a <a href="/docs/modules/PPTS/PSE_M9_OPEX_part2.pdf" > link </a> to the 
   {% endfor %}
   </ul>
 
+* <a href="https://warpwire.duke.edu/w/-60EAA/" > Intro OPEX </a>
+* <a href="https://warpwire.duke.edu/w/B64EAA/" > DEA Model Formulation - Multiplier </a>
+* <a href="https://warpwire.duke.edu/w/_60EAA/" > DEA Duality Theory </a>
+* <a href="https://warpwire.duke.edu/w/Aa4EAA/" > DEA Model Formulation - Envelopment </a>
+* <a href="https://warpwire.duke.edu/w/Aa4EAA/" > Assignment Instructions </a>
+
 
 ## Resources
 
