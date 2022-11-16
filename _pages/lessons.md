@@ -40,7 +40,7 @@ The proposed schedule below is subject to change. My initial plan is to cover al
 | L20 | <a href="/docs/modules/M9/" > M9 | Nov 2 | Utility benchmark analysis using Data Envelopment Analysis (DEA) | A4 |
 | L21 | - | Nov 7 | **Energy Week no class** <br> Asynchronous recorded videos on power flow calculation  | Watch posted videos |
 | L22 | - | Nov 9 | **Energy Week no class** <br> Attend a panel I will be moderating on "Modernizing the Grid" as part of the 2022 Energy conference. <br> Please register [here](https://www.eventbrite.com/e/14th-annual-duke-energy-conference-and-reception-tickets-415396852167).  |  J6 <br> Write a reflection about one of the panels |
-| L23 | M10 | Nov 14 | Distribution Use of System Charges - cost allocation principles and assumptions  | Work on project |
-| L24 | M10 | Nov 16 | Cost allocation: Fixed & Incremental/marginal cost methods <br>  | Work on project |
-| L25 | M10 | Nov 21  | Cost allocation: Case Study 6-bus system | Work on project |
+| L23 | <a href="/docs/modules/M10/" > M10 | Nov 14 | Guest Speaker: [Franco Ghadiri](https://www.linkedin.com/in/franco-ghadiri/), California Energy Commission  | Work on project |
+| L24 | <a href="/docs/modules/M10/" > M10 | Nov 16 | Cost allocation: Principles and assumptions, Fixed & Incremental/marginal cost methods <br>  | Work on project |
+| L25 | <a href="/docs/modules/M10/" > M10 | Nov 21  | Cost allocation: Case Study 6-bus system | Work on project |
 | L26/ <br> L27 | - | Nov 28 - 30 |  **Final Project Presentations** | Project Presentation |
