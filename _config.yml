@@ -30,7 +30,7 @@ description: ""
 url: "http://env590.github.io/Fall22" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  env590
-repository: ENV590/env590.github.io
+repository: ENV590/env590.github.io-fall22
 
 logo: "/docs/assets/logoNSOE.png"
 
