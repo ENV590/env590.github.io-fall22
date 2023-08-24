@@ -97,7 +97,7 @@ You will work on assignments and journal in groups of two to ensure you are gett
 
 # Course Schedule and Topics
 
-Please check our detailed proposed schedule at our class [website](https://env590.github.io/_pages/lessons/).
+Please check our detailed proposed schedule at our class [website](https://env590.github.io-fall22/_pages/lessons/).
 
 # Class Etiquette
 
