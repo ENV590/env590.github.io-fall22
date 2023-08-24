@@ -27,7 +27,7 @@ site.author: "Luana Lima"
 email: "lmm89@duke.edu"
 description: ""
 #baseurl: "/course-website" # the subpath of your site, e.g. /blog
-url: "http://env590.github.io-fall22" # the base hostname & protocol for your site
+url: "http://env590.github.io-fall22/" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  env590
 repository: ENV590/env590.github.io-fall22
