@@ -26,8 +26,8 @@ subtitle: "ENVIRON 590.05 / ENERGY 590.05"
 site.author: "Luana Lima"
 email: "lmm89@duke.edu"
 description: ""
-url: "http://env590.github.io/env590.github.io-fall2022/" # the base hostname & protocol for your site
-#baseurl: "/Fall2022" # the subpath of your site, e.g. /blog
+url: "http://env590.github.io/" # the base hostname & protocol for your site
+baseurl: "/env590.github.io-fall2022/" # the subpath of your site, e.g. /blog
 #twitter_username: jekyllrb
 github_username:  env590
 repository: ENV590/env590.github.io-fall22
